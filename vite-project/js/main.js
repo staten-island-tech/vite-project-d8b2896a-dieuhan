@@ -1,2 +1,3 @@
 import '../css/style.css'
-import '../js'
+import { vinyls } from './vinyl'
+ console.log(vinyls);

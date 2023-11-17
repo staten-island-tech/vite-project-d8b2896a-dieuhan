@@ -1,4 +1,4 @@
-const vinyls = [
+export const vinyls = [
     {
         Name: "The Bends",
         Artist: "Radiohead", 
@@ -31,5 +31,5 @@ const vinyls = [
     },
 ];
 
-console.log(vinyls);
+
     
