@@ -6,11 +6,12 @@ const DOMSelectors = {
     card: document.querySelector(".card")
 };
 
-console.log(DOMSelectors)
+/* console.log(DOMSelectors)
 DOMSelectors.form.addEventListener("click", function (event){
   event.preventDefault();
-
-  function card (){
+ */
+/*   function all (){
+    vinyls.forEach((item)=> DOMSelectors.gallery.insertAdjacentHTML("beforeend", `<div class="card"> <h2 class="names"> </div>
 
   }
-})
+}) */

@@ -44,6 +44,11 @@ export const vinyls = [
     {
         Name: "Nothing Happens",
         Artist: "Wallows",
+        Price: "$18.89",
+        Genre: "Indie"
+    },
+    {
+        Name: ""
     }
 ];
 
