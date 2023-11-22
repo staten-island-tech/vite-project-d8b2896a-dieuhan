@@ -1,14 +1,20 @@
 export const vinyls = [
     {
-        Name: "The Bends",
-        Artist: "Radiohead", 
-        Price: "$28.51",
+        Card: `<div class="card">
+        <h2 class="title">The Bends</h2>
+        <h2 class="artist">Radiohead</h2>
+        <h3 class="price">$28.51</h3>
+        <img class="image" src="https://cdn.shopify.com/s/files/1/0117/4483/7728/products/RADIOHEADTHEBENDS_2019-11-20_10-32-06_TrPAqabAdN_5000x.png?v=1574245932" alt="">
+       </div>`,
         Genre: "Rock"  
     },
     {
-        Name: "French Exit",
-        Artist: "TV Girl",
-        Price: "$25.00",
+        Card: `<div class="card">
+        <h2 class="title">French Exit</h2>
+        <h2 class="artist">TV Girl</h2>
+        <h3 class="price">$28.51</h3>
+        <img class="image" src="https://cdn.shopify.com/s/files/1/0117/4483/7728/products/RADIOHEADTHEBENDS_2019-11-20_10-32-06_TrPAqabAdN_5000x.png?v=1574245932" alt="">
+       </div>`,
         Genre: "Pop"
     },
     {
