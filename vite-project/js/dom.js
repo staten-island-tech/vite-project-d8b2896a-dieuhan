@@ -3,7 +3,8 @@ const DOMSelectors = {
     img: document.querySelectorAll(".card-img"),
     gallery: document.querySelector(".gallery"),
     form: document.querySelector("#form"),
-    card: document.querySelector(".card")
+    card: document.querySelector(".card"),
+    btn: document.getElementById("#btn")
 };
 
 /* console.log(DOMSelectors)

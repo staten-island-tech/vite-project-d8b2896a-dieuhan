@@ -10,6 +10,9 @@ function populate (arr){
     ))
 }
 
+
+
+
 function filters(){
     //selects all category buttons
     let buttons = document.querySelectorAll("#btn")
