@@ -1,5 +1,6 @@
-const DOMSelectors = {
+export const DOMSelectors = {
     h2: document.querySelectorAll(".first"),
+    h3: document.querySelectorAll("second"),
     img: document.querySelectorAll(".card-img"),
     gallery: document.querySelector(".gallery"),
     form: document.querySelector("#form"),

@@ -6,7 +6,7 @@ body{
   text-align: center;
 }
 
-.container{
+.gallery{
   margin: 1rem auto;
   display: flex;
   flex-wrap: wrap;
