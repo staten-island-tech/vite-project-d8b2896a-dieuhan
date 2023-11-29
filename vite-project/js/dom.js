@@ -1,11 +1,12 @@
 export const DOMSelectors = {
     h2: document.querySelectorAll(".first"),
     h3: document.querySelectorAll("second"),
+    h4: document.querySelectorAll("third"),
     img: document.querySelectorAll(".card-img"),
     gallery: document.querySelector(".gallery"),
     form: document.querySelector("#form"),
     card: document.querySelector(".card"),
-    btn: document.getElementById("#btn")
+    btn: document.querySelectorAll(".btn")
 };
 
 /* console.log(DOMSelectors)
