@@ -40,7 +40,7 @@ export const vinyls = [
         <h2 class="title">0.1 flaws and all.</h2>
         <h2 class="artist">wave to earth</h2>
         <h3 class="price">$53.90</h3>
-        <img class="image" src="https://i.ebayimg.com/images/g/BwEAAOSwd-llCBvs/s-l1200.webp" alt="">
+        <img class="image" src="https://www.musicplaza.com/cdn/shop/files/WAV_38bfc3a1-4b60-4a66-a246-b09e0e5582ce_800x.jpg?v=1684794916" alt="">
        </div>`,
         Genre: "Indie"
     },
@@ -67,7 +67,7 @@ export const vinyls = [
         <h2 class="title">Guts</h2>
         <h2 class="artist">Olivia Rodrigo</h2>
         <h3 class="price">$35.99</h3>
-        <img class="image" src="https://www.newburycomics.com/cdn/shop/files/Olivia-Rodrigo-GUTS-Vinyl-Color-LP-2652263-1_grande.jpg?v=1688574709" alt="">
+        <img class="image" src="https://target.scene7.com/is/image/Target/GUEST_2676f28a-b8fc-4101-a258-78ecea73caac?wid=488&hei=488&fmt=pjpeg" alt="">
        </div>`,
        Genre: "Pop"
     },
