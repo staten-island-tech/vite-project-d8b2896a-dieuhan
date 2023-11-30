@@ -58,7 +58,7 @@ export const vinyls = [
         <h2 class="title">Nothing Happens</h2>
         <h2 class="artist">Wallows</h2>
         <h3 class="price">$18.89</h3>
-        <img class="image" src="https://wallowsmusic.store/cdn/shop/products/Untitleddesign_fa4100b8-0776-4cb0-a406-be8d79aa6a10_1200x1200.png?v=1632960160" alt="">
+        <img class="image" src="https://media.karousell.com/media/photos/products/2023/1/21/wallows__nothing_happens_vinyl_1674288720_3981545e_progressive" alt="">
        </div>`,
         Genre: "Indie"
     },
@@ -66,7 +66,7 @@ export const vinyls = [
         card: `<div class="card">
         <h2 class="title">Guts</h2>
         <h2 class="artist">Olivia Rodrigo</h2>
-        <h3 class="price">$35.99</h3>
+        <h3 class="price">$29.99</h3>
         <img class="image" src="https://target.scene7.com/is/image/Target/GUEST_2676f28a-b8fc-4101-a258-78ecea73caac?wid=488&hei=488&fmt=pjpeg" alt="">
        </div>`,
        Genre: "Pop"
@@ -75,7 +75,7 @@ export const vinyls = [
         card: `<div class="card">
         <h2 class="title">emails i cant send</h2>
         <h2 class="artist">Sabrina Carpenter</h2>
-        <h3 class="price">$35.99</h3>
+        <h3 class="price">$25.99</h3>
         <img class="image" src="https://pbs.twimg.com/media/Fai7ts8UsAAEljb.jpg:large" alt="">
        </div>`,
        Genre: "Pop"
@@ -112,7 +112,7 @@ export const vinyls = [
         <h2 class="title">Doolittle</h2>
         <h2 class="artist">Pixies</h2>
         <h3 class="price">$28.99</h3>
-        <img class="image" src="https://thesoundofvinyl.us/cdn/shop/products/dooli_1200x1200.png?v=1669057994" alt="">
+        <img class="image" src="https://www.jbhifi.com.au/cdn/shop/products/128812-Product-0-I_245dbc15-a055-4640-aa70-67441ad24571_grande.jpg" alt="">
        </div>`,
        Genre: "Rock"
     },
@@ -148,7 +148,7 @@ export const vinyls = [
         <h2 class="title">The NBHD</h2>
         <h2 class="artist">The Neighbourhood</h2>
         <h3 class="price">$47.98</h3>
-        <img class="image" src="https://api.roughtrade.com/media/thumbnails/products/product_shot_NBHD_3LP2_f3ecdb44_thumbnail_2048.webp" alt="">
+        <img class="image" src="https://www.roanrecords.co.uk/wp-content/uploads/2023/09/the-neighbourhood-Hard-to-Imagine-the-Neighbourhood-Ever-Changing-lp-packshot-1.jpg" alt="">
        </div>`,
        Genre: "Indie"
     },
