@@ -50,3 +50,18 @@
   align-items: center;
 }
 
+.root {
+  --light-blue: rgb(99, 208, 255);
+  --light-green: rgb(52, 125, 71);
+
+  --primary:var(--light-green);
+  --secondary:var(--light-blue);
+}
+
+.forest{
+  --primary:var(--light-green);
+}
+
+.sea{
+  --secondary:var(--light-blue);
+}

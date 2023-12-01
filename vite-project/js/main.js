@@ -56,3 +56,13 @@ function filters(){
     clear_screen();
    dis(vinyls)
    })
+
+   document.querySelector(".themebtn").addEventListener("click", function (){
+    if (document.body.classList.contains("sea")){
+        document.body.classList.add("forest");
+        document.body.classList.remove("sea");
+    } else {
+        document.body.classList.add("sea");
+        document.body.classList.remove("forest");
+    }
+   });
