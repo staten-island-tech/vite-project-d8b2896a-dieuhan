@@ -7,7 +7,7 @@ export const DOMSelectors = {
     form: document.querySelector("#form"),
     card: document.querySelector(".card"),
     btn: document.querySelectorAll(".btn"),
-    themebtn: document.querySelector(".themebtn")
+    
 };
 
 /* console.log(DOMSelectors)

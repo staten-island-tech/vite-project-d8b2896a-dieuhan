@@ -37,6 +37,16 @@ function filters(){
         populate(newArr)
     }))};  */
 
+    document.querySelector(".change").addEventListener("click", function (){
+    if (document.body.classList.contains("blue")){
+             document.body.classList.add("green");
+             document.body.classList.remove("blue");
+         } else {
+             document.body.classList.add("blue");
+             document.body.classList.remove("green");
+         }
+        });  
+
    function clear_screen(){
     const element = document.querySelector(".gallery");
     element.innerHTML = ""
@@ -55,14 +65,5 @@ function filters(){
    DOMSelectors.buttons.addEventListener("click", function(){
     clear_screen();
    dis(vinyls)
-   })
-
-   document.querySelector(".themebtn").addEventListener("click", function (){
-    if (document.body.classList.contains("sea")){
-        document.body.classList.add("forest");
-        document.body.classList.remove("sea");
-    } else {
-        document.body.classList.add("sea");
-        document.body.classList.remove("forest");
-    }
    });
+
