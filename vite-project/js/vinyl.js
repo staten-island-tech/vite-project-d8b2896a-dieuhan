@@ -19,15 +19,6 @@ export const vinyls = [
     },
     {
         card: `<div class="card">
-        <h2 class="title">Folklore LPS</h2>
-        <h2 class="artist">Taylor Swift</h2>
-        <h3 class="price">$42.99</h3>
-        <img class="image" src="https://static1.squarespace.com/static/5f4a6763a23dbb3ab86255f7/641090dd84850563698426ea/641cfc3db877667b3a3edcd0/1688311252709/?format=1500w" alt="">
-       </div>`,
-        Genre: "Folk"
-    },
-    {
-        card: `<div class="card">
         <h2 class="title">Selfish Machines</h2>
         <h2 class="artist">Pierce The Veil</h2>
         <h3 class="price">$51.49</h3>
